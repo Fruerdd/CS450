@@ -1,0 +1,38 @@
+[
+    {
+      "skill": "HTML+CSS",
+      "level": "advanced",
+      "color": "#7DD3FC",
+      "description": "Building responsive layouts and styling user interfaces."
+    },
+    {
+      "skill": "JavaScript",
+      "level": "beginner",
+      "color": "#FDE047",
+      "description": "Writing interactive logic and handling user actions in web apps."
+    },
+    {
+      "skill": "Web Design",
+      "level": "advanced",
+      "color": "#D9F99D",
+      "description": "Designing clean, user-friendly, and visually balanced interfaces."
+    },
+    {
+      "skill": "Git and GitHub",
+      "level": "intermediate",
+      "color": "#F97316",
+      "description": "Tracking code changes, managing versions, and collaborating on projects."
+    },
+    {
+      "skill": "React",
+      "level": "advanced",
+      "color": "#7DD3FC",
+      "description": "Creating reusable UI components and modern frontend applications."
+    },
+    {
+      "skill": "Angular",
+      "level": "beginner",
+      "color": "#FB7185",
+      "description": "Understanding component-based structure and building structured apps."
+    }
+  ]
