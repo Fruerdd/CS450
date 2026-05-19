@@ -1,0 +1,12 @@
+{
+  "name": "library-borrow",
+  "version": "1.0.0",
+  "description": "Unit tests for Library Book Borrowing system (CS450 Week 10)",
+  "main": "canBorrow.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
